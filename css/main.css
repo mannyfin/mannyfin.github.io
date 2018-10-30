@@ -2184,6 +2184,7 @@
 			#main > section.one {
 				background-color: #81918E;
 				background-image: url("../img/banner.jpg");
+				text-align: left;
 			}
 
 			#main > section.two {
